@@ -36,7 +36,7 @@ img{display:block; margin:0; padding:0; border:0;}
 
 /* ----------------------------------------------Wrapper------------------------------------- */
 
-div.wrapper{position:relative; float:left; width:100%; margin:0; text-align:left;}
+div.wrapper{position:relative; float:left; width:100%; margin:0; text-align:left; height: 950px}
 div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, div.wrapper h6{margin:0; padding:0; line-height:normal; font-weight:normal; font-size:18px; font-family:Georgia, "Times New Roman", Times, serif;}
 .col1{color:#333333; background-color:#222222; border-bottom:1px dotted #666666;}
 .col2{color:#D2D2D2; background-color:#222222;}
