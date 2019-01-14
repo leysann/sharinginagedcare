@@ -66,7 +66,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 
 #header{padding:0 0 20px 0; font-family:Verdana, Arial, Helvetica, sans-serif;}
 #header h1, #header p{margin:0; padding:0;}
-#header #logo{display:block; float:left; width:260px; margin-top:18px;}
+#header #logo{display:block; float:left; width:320px; margin-top:18px;}
 #header h1{margin:0 0 7px 0; font-size:56px; font-family:Georgia, "Times New Roman", Times, serif;}
 #header h1 a{color:#F3F3F3; background-color:#222222;}
 #header p.toggler{display:inline;}
