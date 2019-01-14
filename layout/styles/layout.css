@@ -70,7 +70,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 #header h1{margin:0 0 7px 0; font-size:45px; font-family:Georgia, "Times New Roman", Times, serif;}
 #header h1 a{color:#F3F3F3; background-color:#222222;}
 #header p.toggler{display:inline;}
-#header p.toggler a{display:block; width:180px; padding:5px 0; text-align:center; text-transform:uppercase; color:#666666; background-color:#333333;}
+#header p.toggler a{display:block; width:220px; padding:5px 0; text-align:center; text-transform:uppercase; color:#666666; background-color:#333333;}
 
 /* ----------------------------------------------Homepage Intro------------------------------------- */
 
