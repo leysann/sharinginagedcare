@@ -92,7 +92,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 /* ----------------------------------------------Portfolio Overview------------------------------------- */
 
 div.overview{padding:20px 0 0 0;}
-.overview h1#title{display:block; width:100%; margin-top:-20px; font-size:180px; letter-spacing:-2px; color:#DDDDDD; background-color:#FFFFFF;}
+.overview h1#title{display:block; width:100%; margin-top:-20px; font-size:100px; letter-spacing:-2px; color:#DDDDDD; background-color:#FFFFFF;}
 .overview ul{margin:0; padding:0; list-style:none;}
 .overview li{display:block; float:left; width:296px; margin:0 36px 36px 0; padding:0;}
 .overview li.last{margin-right:0;}
